@@ -1,6 +1,6 @@
 """Read customer data from file and run a raffle."""
 
-from random import choice
+import random
 
 
 class Customer(object):
